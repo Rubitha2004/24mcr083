@@ -5,3 +5,6 @@ Name:Rubitha D
 Reg.no:24mcr083
 dept:mca
 Fav topic:java
+
+
+mobile model:redmi
